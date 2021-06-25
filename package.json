@@ -1,0 +1,25 @@
+{
+  "name": "reto_5",
+  "version": "1.0.0",
+  "description": "Reto de la \b\b\b\b\b\u001b[C solucion del reto 5 de express y mongo db",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres16081990/reto_5.git"
+  },
+  "author": "Joaquin beltran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andres16081990/reto_5/issues"
+  },
+  "homepage": "https://github.com/andres16081990/reto_5#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "type": "module"
+}
